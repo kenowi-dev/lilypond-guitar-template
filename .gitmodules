@@ -1,0 +1,6 @@
+[submodule "lib/lilypond-guitar-bends"]
+	path = lib/lilypond-guitar-bends
+	url = git@github.com:systeno/lilypond-guitar-bends.git
+[submodule "lib/pdq"]
+	path = lib/pdq
+	url = https://github.com/codello/pdq.git
